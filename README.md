@@ -41,7 +41,7 @@ The final model achieved the following performance on the test set:
 
 2. Clone the repository:
 ```bash
-git clone [https://github.com/theofloris/Telco-Customer-Churn-Prediction.git](https://github.com/theofloris/Telco-Customer-Churn-Prediction.git)
+git clone https://github.com/theofloris/Telco-Customer-Churn-Prediction.git
 ```
 3. Navigate into the folder:
 ```bash
